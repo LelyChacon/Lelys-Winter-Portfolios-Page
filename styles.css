@@ -1,0 +1,44 @@
+img {
+    width: 200px;
+    border-radius: 50px;
+    border: groove black 10px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.En {
+    display: flex;
+    justify-content: center;
+}
+.Hi{
+    display: flex;
+    justify-content: center;
+}
+.ma{
+    display: flex;
+    justify-content: center;
+}
+.ph{
+    display: flex;
+    justify-content: center;
+}
+.ad{
+    display: flex;
+    justify-content: center;
+}
+.coo{
+    display: flex;
+    justify-content: center;
+}
+.co{
+    display: flex;
+    justify-content: center;
+}
